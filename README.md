@@ -3,7 +3,7 @@ As an experienced technical writer and editor, I produce clear, accurate, and co
 
 ### writing samples
  | Document | Details |
- | ---------- | --------- |
+ | ---- | ---- |
  | [PXIe-8521 User Manual](https://www.ni.com/docs/en-US/bundle/automotive-diagnostic-command-set-toolkit-c-api-ref/page/adcs-c-ref/automotivediagosticcommandsetapiforc.html) | PXIe-8521 4-port, 100BASE-T1 PXI Automotive Ethernet Interface Module, NI's first Automotive Ethernet PXI-Express module. Document created in DITA using SVG format for images, pinouts, and block diagrams. | 
  | [Automotive Diagnostic Command Set Toolkit - C API Reference](https://www.ni.com/docs/en-US/bundle/automotive-diagnostic-command-set-toolkit-c-api-ref/page/adcs-c-ref/automotivediagosticcommandsetapiforc.html) | Developed in collaboration with software development teams in Germany and the US; updated for each ADCS release. Each topic was coded in HTML and compiled for HTML help (CHM), and later converted to its current online format. | 
  | [HP TippingPoint Security Management System Command Line Interface Reference v. 4.0](https://www.dropbox.com/scl/fi/ejv34galex8zwjb0doja3/SMS-CLI-Reference.pdf?rlkey=cb2nlswut4ivrzj0ke6ghtr4d&st=56l9hljm&dl=0) | Created in Adobe FrameMaker. Developed with the help of software, test, and quality assurance engineers. | 
