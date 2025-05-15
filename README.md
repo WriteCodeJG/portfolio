@@ -20,4 +20,5 @@ Agile Methodologies ▪ API Documentation ▪ AUTOSAR Architecture ▪ Active Li
 
 ### contact
 jgilles@zohomail.com
+
 [LinkedIn profile](www.linkedin.com/in/jgilles)
