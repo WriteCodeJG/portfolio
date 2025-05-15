@@ -15,9 +15,9 @@ Below are a few samples that highlight my focus on clarity, precision, and usabi
 Agile Methodologies ▪ API Documentation ▪ AUTOSAR Architecture ▪ Active Listening ▪ Automotive Sensors ▪ Basic Programming ▪ Cloud Computing: Core Concepts ▪ Communication ▪ Data Analytics ▪ Data Visualization ▪ Electronics Fundamentals▪ Emotional Intelligence ▪ Engine Control Units (ECUs) ▪ Facilitating ▪ Generative AI Fundamentals ▪ Generative AI Prompt Engineering ▪ Git ▪ GitHub ▪ Graphic Design ▪ Growth Mindset ▪ Inclusive Mindset ▪ Java ▪ JavaScript ▪ JSON and XML ▪ Logical Reasoning ▪ Microsoft Azure Fundamentals ▪ Object-Oriented Programming ▪ Problem Solving ▪ Product Management Fundamentals ▪ REST API ▪ Using AI in Research Projects ▪ User Stories ▪ Visual Basic
 
 ### certifications
-- HP Accredited Solutions Expert, Intrusion Prevention System (IPS) [certificate](https://www.dropbox.com/scl/fi/aoglni4j0unve5q2644sk/IPS-ASE-Certificate.pdf?rlkey=ydog1qowtr14qbqioy5prnc12&st=5vbmbpyo&dl=0)
-- HP TippingPoint Next Generation Firewall Security Products Expert [certificate](https://www.dropbox.com/scl/fi/id6dm5y7gmm3t28q028xo/NGFW-ASE-Certificate.pdf?rlkey=hzl8pedle48qv3h325lpbn7tr&st=ye2d9r55&dl=0)
+- HP Accredited Solutions Expert, Intrusion Prevention System (IPS) [(certificate)](https://www.dropbox.com/scl/fi/aoglni4j0unve5q2644sk/IPS-ASE-Certificate.pdf?rlkey=ydog1qowtr14qbqioy5prnc12&st=5vbmbpyo&dl=0)
+- HP TippingPoint Next Generation Firewall Security Products Expert [(certificate)](https://www.dropbox.com/scl/fi/id6dm5y7gmm3t28q028xo/NGFW-ASE-Certificate.pdf?rlkey=hzl8pedle48qv3h325lpbn7tr&st=ye2d9r55&dl=0)
 
 ### contact
 jgilles@zohomail.com
-
+[LinkedIn profile](www.linkedin.com/in/jgilles)
