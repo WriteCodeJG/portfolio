@@ -1,13 +1,15 @@
 # portfolio
-I am a technical writer based in Austin, Texas, with experience creating documentation for leading technology companies such as IBM Global Services, Tivoli, Reddwerks, Advanced Micro Devices, TippingPoint, National Instruments, and more. In addition to corporate technology, I have documented statewide financial systems at the Texas Comptroller of Public Accounts and a payment processing system for the Texas Office of the Attorney General. My work spans a range of technical domains, including fiscal management systems, IT service management tools, supply chain management, semiconductor technology, network security, and test and measurement hardware and software. Below are a few samples showcasing my approach to clarity, precision, and usability in technical communication.
+I am a technical writer based in Austin, Texas, with experience creating documentation for leading technology companies including IBM Global Services, Tivoli Software, Reddwerks, AMD, TippingPoint, and National Instruments. In addition to corporate technology, I've documented statewide financial systems at the Texas Comptroller of Public Accounts and a payment processing system for the Texas Office of the Attorney General. 
+
+My work spans a wide range of technical domains--from fiscal management systems and IT service management tools to supply chain management platforms, semiconductor technology, network security, and test and measurement hardware/software. 
+
+Below are a few samples that highlight my focus on clarity, precision, and usability in technical communication.
 
 ### writing samples
- | Document | Details |
- | ---- | ---- |
- | [PXIe-8521 User Manual](https://www.ni.com/docs/en-US/bundle/automotive-diagnostic-command-set-toolkit-c-api-ref/page/adcs-c-ref/automotivediagosticcommandsetapiforc.html) | PXIe-8521 4-port, 100BASE-T1 PXI Automotive Ethernet Interface Module, NI's first Automotive Ethernet PXI-Express module. Document created in DITA using SVG format for images, pinouts, and block diagrams. | 
- | [Automotive Diagnostic Command Set Toolkit - C API Reference](https://www.ni.com/docs/en-US/bundle/automotive-diagnostic-command-set-toolkit-c-api-ref/page/adcs-c-ref/automotivediagosticcommandsetapiforc.html) | Developed in collaboration with software development teams in Germany and the US; updated for each ADCS release. Each topic was coded in HTML and compiled for HTML help (CHM), and later converted to its current online format. | 
- | [HP TippingPoint Security Management System Command Line Interface Reference v. 4.0](https://www.dropbox.com/scl/fi/ejv34galex8zwjb0doja3/SMS-CLI-Reference.pdf?rlkey=cb2nlswut4ivrzj0ke6ghtr4d&st=56l9hljm&dl=0) | Created in Adobe FrameMaker. Developed with the help of software, test, and quality assurance engineers. | 
- | [Tivoli Access Manager 6.1 Quick Start Guide](https://www.dropbox.com/scl/fi/zv2kh6xpby6d7bh1kiusq/tam61-qs.pdf?rlkey=dtjejzt07yt3j4b3iutw949fs&st=me1e68es&dl=0) | Quick reference for installing and configuring Tivoli Access Manager enterprise software. Created in Adobe FrameMaker using GIFs and Visio output for images. | 
+ | Type | Sample | Description |
+ | ---- | ---- | ---- |
+ | API | IP Stack functions | Excerpt: IP Stack functions from the NI-XNET API for C. These functions enable the developer to configure virtual IP stacks and use BSD-like sockets TCP/UDP communication between ECUs and NI-XNET software. |
+ | User Guide | [PXIe-8521 User Manual](https://www.dropbox.com/scl/fi/z8sapt5h4yxzvqdb1vlie/pixe-8521_um.pdf?rlkey=dygjyz9tlmp68346mrbh7kec0&st=qse9jrnq&dl=0) | PXIe-8521 4-port, 100BASE-T1 PXI Automotive Ethernet Interface Module, NI's first Automotive Ethernet PXI-Express module. Document created in DITA using SVG format for images, pinouts, and block diagrams. |
 
 ### professional learning
 Agile Methodologies ▪ API Documentation ▪ AUTOSAR Architecture ▪ Active Listening ▪ Automotive Sensors ▪ Basic Programming ▪ Cloud Computing: Core Concepts ▪ Communication ▪ Data Analytics ▪ Data Visualization ▪ Electronics Fundamentals▪ Emotional Intelligence ▪ Engine Control Units (ECUs) ▪ Facilitating ▪ Generative AI Fundamentals ▪ Generative AI Prompt Engineering ▪ Git ▪ GitHub ▪ Graphic Design ▪ Growth Mindset ▪ Inclusive Mindset ▪ Java ▪ JavaScript ▪ JSON and XML ▪ Logical Reasoning ▪ Microsoft Azure Fundamentals ▪ Object-Oriented Programming ▪ Problem Solving ▪ Product Management Fundamentals ▪ REST API ▪ Using AI in Research Projects ▪ User Stories ▪ Visual Basic
