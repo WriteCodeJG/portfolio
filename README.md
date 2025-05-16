@@ -24,6 +24,6 @@ jgilles@zohomail.com
 ### other
 [LinkedIn profile](https://www.linkedin.com/in/jgilles)
 
-Resume
+[Resume](resume.md)
 
 Testimonials
