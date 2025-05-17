@@ -11,9 +11,8 @@ Below are a few samples that highlight my focus on clarity, precision, and usabi
  | API | IP Stack functions | Excerpt: IP Stack functions from the NI-XNET API for C. These functions enable the developer to configure virtual IP stacks and use BSD-like sockets TCP/UDP communication between ECUs and NI-XNET software. |
  | User Guide | [PXIe-8521 User Manual](https://www.dropbox.com/scl/fi/z8sapt5h4yxzvqdb1vlie/pixe-8521_um.pdf?rlkey=dygjyz9tlmp68346mrbh7kec0&st=qse9jrnq&dl=0) | PXIe-8521 4-port, 100BASE-T1 PXI Automotive Ethernet Interface Module, NI's first Automotive Ethernet PXI-Express module. Document created in DITA using SVG format for images, pinouts, and block diagrams. |  
 
- :arrow_forward: [Resume](resume.md)  
- 
- :arrow_forward: [Testimonials](testimonials.md)
+:small_blue_diamond: [Resume](resume.md)  
+:small_blue_diamond: [Testimonials](testimonials.md)  
 
 ### professional learning
 Agile Methodologies ▪ API Documentation ▪ AUTOSAR Architecture ▪ Active Listening ▪ Automotive Sensors ▪ Basic Programming ▪ Cloud Computing: Core Concepts ▪ Communication ▪ Data Analytics ▪ Data Visualization ▪ Electronics Fundamentals▪ Emotional Intelligence ▪ Engine Control Units (ECUs) ▪ Facilitating ▪ Generative AI Fundamentals ▪ Generative AI Prompt Engineering ▪ Git ▪ GitHub ▪ Graphic Design ▪ Growth Mindset ▪ Inclusive Mindset ▪ Java ▪ JavaScript ▪ JSON and XML ▪ Logical Reasoning ▪ Microsoft Azure Fundamentals ▪ Object-Oriented Programming ▪ Problem Solving ▪ Product Management Fundamentals ▪ REST API ▪ Using AI in Research Projects ▪ User Stories ▪ Visual Basic
