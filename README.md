@@ -8,8 +8,10 @@ Below are a few samples that highlight my focus on clarity, precision, and usabi
 ### writing samples
  | Type | Sample | Description |
  | ---- | ---- | ---- |
- | API | IP Stack functions | Excerpt: IP Stack functions from the NI-XNET API for C. These functions enable the developer to configure virtual IP stacks and use BSD-like sockets TCP/UDP communication between ECUs and NI-XNET software. |
- | User Guide | [PXIe-8521 User Manual](https://www.dropbox.com/scl/fi/z8sapt5h4yxzvqdb1vlie/pixe-8521_um.pdf?rlkey=dygjyz9tlmp68346mrbh7kec0&st=qse9jrnq&dl=0) | PXIe-8521 4-port, 100BASE-T1 PXI Automotive Ethernet Interface Module, NI's first Automotive Ethernet PXI-Express module. Document created in DITA using SVG format for images, pinouts, and block diagrams. |  
+ | API | [IP Stack functions](https://www.dropbox.com/scl/fi/jaiue66xhun6pzlpji46h/xnetIPstack.pdf?rlkey=r99zejvohbb0p30uh3kv06skk&st=8eqe1e3h&dl=0) | IP Stack functions from the NI-XNET API for C (excerpt from the _NI-XNET API Reference_). A developer can use these functions to configure a virtual IP stack, an implementation of the TCP/IP protocol suite independent from the operating system. Content created in HTML, later migrated to DITA source, ouput to a bundle and published using [Zoomin](https://docs.zoominsoftware.com/). |
+ | HW User Manual | [_PXIe-8521 User Manual_](https://www.dropbox.com/scl/fi/z8sapt5h4yxzvqdb1vlie/pixe-8521_um.pdf?rlkey=dygjyz9tlmp68346mrbh7kec0&st=qse9jrnq&dl=0) | PXIe-8521 4-port, 100BASE-T1 PXI Automotive Ethernet Interface Module, NI's first Automotive Ethernet PXI-Express module. How to install, connect, configure, and use the PXIe-8521. Document created in DITA using SVG format for images, pinouts, and block diagrams. | 
+ | SW User Manual | [_NI-XNET Database Editor User Manual_](https://www.ni.com/docs/en-US/bundle/xnet-db-editor/page/manual-overview.html) | Overview of automotive database concepts, user instructions, and reference information for using the database editor. DITA source, ouput to a bundle and published using Zoomin.| 
+ | Diagram | [Network diagram](https://www.dropbox.com/scl/fi/dk25zrux4pjohfg0edgdd/netDiagSample.png?rlkey=5s0jrwll7j471ggx25dj5kodb&st=7fn2t099&dl=0) | Reference for system migration when TippingPoint was aquired by Hewlett-Packard (2010). Created in Visio.
 
 :small_blue_diamond: [Resume](resume.md)  
 :small_blue_diamond: [Testimonials](testimonials.md)  
