@@ -8,11 +8,11 @@
      </tr>
      <tr>
         <td>"Thank you for all the support and help with the latest revision of e-ESM... without your abilities, thoughtfulness, filling in my gaps, and vigilance to detail, this project would have failed." <br>&mdash; Fellow Writer, IBM</td>
-        <td>"Just wanted to praise your Project Managment skills. I think you did a great job organizing and directing us through this final project." <br>&mdash; Classmate, Technical Communication, ACC</td>
+        <td>"Just wanted to praise your Project Management skills. I think you did a great job organizing and directing us through this final project." <br>&mdash; Classmate, Technical Communication, ACC</td>
      </tr>
      <tr>
-        <td>"Just wanted to let you know that Gloria and Howard used your SDU comparison chart for legislative planning this week & it was just what they needed. Thank for coordinating all the information and putting it into a useful format." <br>&mdash; Office Manager, Office of the Attoney General, Child Support Division</td>
-        <td>"Jim is very responsive and his good communication with my team makes him very effective. Jim is very thorough in his documentation reviews. He has an eye for details and his skill level for creating documentary from scratch is remarkable." <br>&mdash; Project Manager, Semikron Interface Board</td>
+        <td>"Just wanted to let you know that Gloria and Howard used your SDU comparison chart for legislative planning this week & it was just what they needed. Thank you for coordinating all the information and putting it into a useful format." <br>&mdash; Office Manager, Office of the Attorney General, Child Support Division</td>
+        <td>"Jim is very responsive and his good communication with my team makes him very effective. Jim is very thorough in his documentation reviews. He has an eye for details and his skill level for creating documentation from scratch is remarkable." <br>&mdash; Project Manager, Semikron Interface Board</td>
      </tr>
      <tr>
        <td>"Jim was super to work with. He had a great attitude, worked well with the team, found answers when he didn't have them, and helped release the project on 1 CCA
