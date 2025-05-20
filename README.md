@@ -1,7 +1,7 @@
 # portfolio
 I am a technical writer based in Austin, Texas, with experience creating documentation for leading technology companies including IBM Global Services, Tivoli Software, Reddwerks, AMD, TippingPoint, and National Instruments. In addition to corporate technology, I've documented statewide financial systems at the Texas Comptroller of Public Accounts and a payment processing system for the Texas Office of the Attorney General. 
 
-My work spans a wide range of technical domains--from fiscal management systems and IT service management tools to supply chain management platforms, semiconductor technology, network security, and test and measurement hardware/software.  
+My work spans a wide range of technical domains&mdash;from fiscal management systems and IT service management tools to supply chain management platforms, semiconductor technology, network security, and test and measurement hardware/software.  
 
 Below are a few samples that highlight my focus on clarity, precision, and usability in technical communication.
 
@@ -17,7 +17,7 @@ Below are a few samples that highlight my focus on clarity, precision, and usabi
 :small_blue_diamond: [Testimonials](testimonials.md)  
 
 ### professional learning
-Agile Methodologies ▪ API Documentation ▪ AUTOSAR Architecture ▪ Active Listening ▪ Automotive Sensors ▪ Basic Programming ▪ Cloud Computing: Core Concepts ▪ Communication ▪ Data Analytics ▪ Data Visualization ▪ Electronics Fundamentals▪ Emotional Intelligence ▪ Engine Control Units (ECUs) ▪ Facilitating ▪ Generative AI Fundamentals ▪ Generative AI Prompt Engineering ▪ Git ▪ GitHub ▪ Graphic Design ▪ Growth Mindset ▪ Inclusive Mindset ▪ Java ▪ JavaScript ▪ JSON and XML ▪ Logical Reasoning ▪ Microsoft Azure Fundamentals ▪ Object-Oriented Programming ▪ Problem Solving ▪ Product Management Fundamentals ▪ REST API ▪ Using AI in Research Projects ▪ User Stories ▪ Visual Basic
+Agile Methodologies ▪ API Documentation ▪ AUTOSAR Architecture ▪ Active Listening ▪ Automotive Sensors ▪ Basic Programming ▪ Cloud Computing: Core Concepts ▪ Communication ▪ Data Analytics ▪ Data Visualization ▪ Electronics Fundamentals ▪ Emotional Intelligence ▪ Engine Control Units (ECUs) ▪ Facilitating ▪ Generative AI Fundamentals ▪ Generative AI Prompt Engineering ▪ Git ▪ GitHub ▪ Graphic Design ▪ Growth Mindset ▪ Inclusive Mindset ▪ Java ▪ JavaScript ▪ JSON and XML ▪ Logical Reasoning ▪ Microsoft Azure Fundamentals ▪ Object-Oriented Programming ▪ Problem Solving ▪ Product Management Fundamentals ▪ REST API ▪ Using AI in Research Projects ▪ User Stories ▪ Visual Basic
 
 ### certifications
 - HP Accredited Solutions Expert, Intrusion Prevention System (IPS) [(certificate)](https://www.dropbox.com/scl/fi/aoglni4j0unve5q2644sk/IPS-ASE-Certificate.pdf?rlkey=ydog1qowtr14qbqioy5prnc12&st=5vbmbpyo&dl=0)
