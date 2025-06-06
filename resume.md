@@ -19,12 +19,13 @@ Technical Writer with 20+ years of experience developing and editing software an
 
 **Senior Technical Writer**  
 **National Instruments, Austin, TX	Feb 2014&ndash;Dec 2023**  
-- Planned, scoped, and managed hundreds of documentation projects across multiple product lines, including vehicle communications, calibration automation, and data acquisition.
+- Helped migrate product build and documentation components from a source control system to a Git repository integrated with Microsoft Azure DevOps.
+- Documented hardware installation and configuration procedures based on hands-on observation and SME interviews.
+- Established and refined a cross-team documentation review process optimized for software development, hardware calibration, Metrology, and Compliance reviewers across multiple global locations.
 - Updated specifications document, revamped user manual, and secured stakeholder approval for the PXIe-4322 module, enabling $1.5M in customer order fulfillment.
 - Led and coordinated monthly cross-functional meetings with Metrology, Calibration, and Tech Comm representatives to prioritize projects, resolve issues, and ensure alignment among writers and stakeholders.
 - Reviewed content, structure, and implementation in roles as Lead DITA Reviewer and Document Technology Lead.
-- Established and refined a cross-team documentation review process optimized for software development, hardware calibration, Metrology, and Compliance reviewers across multiple global locations.
-- Helped migrate product build and documentation components from a source control system to a Git repository integrated with Microsoft Azure DevOps.
+- Planned, scoped, and managed hundreds of documentation projects across multiple product lines, including vehicle communications, calibration automation, and data acquisition.
 
 **Information Developer**  
 **HP TippingPoint (Contract), Austin, TX	Jan 2013&ndash;Feb 2014**  
