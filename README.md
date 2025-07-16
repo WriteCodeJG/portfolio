@@ -14,8 +14,8 @@ Below are a few samples that highlight my focus on clarity, precision, and usabi
  | SW User Manual | [_NI-XNET Database Editor User Manual_](https://www.ni.com/docs/en-US/bundle/xnet-db-editor/page/manual-overview.html) | Overview of automotive database concepts, user instructions, and reference information for using the database editor. DITA source, output to a bundle, and published using Zoomin platform. | 
  | Diagram | [Network diagram](https://www.dropbox.com/scl/fi/dk25zrux4pjohfg0edgdd/netDiagSample.png?rlkey=5s0jrwll7j471ggx25dj5kodb&st=7fn2t099&dl=0) | Reference for system migration when TippingPoint was acquired by Hewlett-Packard (2010). Visio source. |
 
-:small_blue_diamond: [Resume](resume.md)  
-:small_blue_diamond: [Testimonials](testimonials.md)  
+:link: [Resume](resume.md)  
+:link: [Testimonials](testimonials.md)  
 
 ### professional learning
 Agile Methodologies ▪ API Documentation ▪ AUTOSAR Architecture ▪ Active Listening ▪ Automotive Sensors ▪ Basic Programming ▪ Cloud Computing: Core Concepts ▪ Communication ▪ Data Analytics ▪ Data Visualization ▪ Electronics Fundamentals ▪ Emotional Intelligence ▪ Engine Control Units (ECUs) ▪ Facilitating ▪ Generative AI Fundamentals ▪ Generative AI Prompt Engineering ▪ Git ▪ GitHub ▪ Graphic Design ▪ Growth Mindset ▪ Inclusive Mindset ▪ Java ▪ JavaScript ▪ JSON and XML ▪ Logical Reasoning ▪ Microsoft Azure Fundamentals ▪ Object-Oriented Programming ▪ Problem Solving ▪ Product Management Fundamentals ▪ REST API ▪ Using AI in Research Projects ▪ User Stories ▪ Visual Basic
