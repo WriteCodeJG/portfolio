@@ -15,7 +15,7 @@ Below are a few samples that highlight my focus on clarity, precision, and usabi
  | [_NI-XNET Database Editor User Manual_](https://www.ni.com/docs/en-US/bundle/xnet-db-editor/page/manual-overview.html) | Overview of automotive database concepts, user instructions, and reference information for using the database editor. DITA source, output to a bundle, and published using Zoomin platform. | 
 
 
-:link: [Resume](resume.md)  
+:link: [Resume](https://www.dropbox.com/scl/fi/cjob9pb434uoqsob4qjcw/Gillespie_Resume.pdf?rlkey=fnigiwizsz1i5wadwwxy712wi&st=vapz77eu&dl=0)  
 :link: [Testimonials](testimonials.md)  
 
 ### professional learning
