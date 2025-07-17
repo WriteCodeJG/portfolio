@@ -1,18 +1,19 @@
 # portfolio
 I am a technical writer based in Austin, Texas, with experience creating documentation for leading technology companies including IBM Global Services, Tivoli Software, Reddwerks, AMD, TippingPoint, and National Instruments. In addition to corporate technology, I've documented statewide financial systems at the Texas Comptroller of Public Accounts and a payment processing system for the Texas Office of the Attorney General. 
 
-My work spans a wide range of technical domains&mdash;from fiscal management systems and IT service management tools to supply chain management platforms, semiconductor technology, network security, and test and measurement hardware/software.  
+My work spans a number of technical domains, from fiscal management systems and IT service management tools to supply chain management platforms, semiconductor technology, network security, and test and measurement systems.  
 
 Below are a few samples that highlight my focus on clarity, precision, and usability in technical communication.
 
 ### writing samples
- | Type | Sample | Description |
- | ---- | ---- | ---- |
- | API | [IP Stack functions](https://www.dropbox.com/scl/fi/jaiue66xhun6pzlpji46h/xnetIPstack.pdf?rlkey=r99zejvohbb0p30uh3kv06skk&st=8eqe1e3h&dl=0) | IP Stack-related functions from the NI-XNET API for C (excerpt from the _NI-XNET API Reference_). A developer can use these functions to configure a virtual IP stack, an implementation of the TCP/IP protocol suite independent from the operating system. HTML source compiled to CHM. Later migrated to DITA source, output to a bundle, and published using [Zoomin](https://docs.zoominsoftware.com/) platform. |
- | Getting Started | [_sbRIO-9687 Getting Started_](https://www.dropbox.com/scl/fi/xmne0loyn7uszmy3foiz7/sbrio-9687_getting_started_2025-03-31-20-50-02.pdf?rlkey=xflyh5awq4pywtdxau5maea55&st=70bweq6o&dl=0) | Installation instructions and basic setup for the sbRIO-9687 GPIC Universal Interface Board. DITA and SVG source, later published using Zoomin platform. | 
- | HW User Manual | [_PXIe-8521 User Manual_](https://www.dropbox.com/scl/fi/z8sapt5h4yxzvqdb1vlie/pixe-8521_um.pdf?rlkey=dygjyz9tlmp68346mrbh7kec0&st=qse9jrnq&dl=0) | PXIe-8521 4-port, 100BASE-T1 PXI Automotive Ethernet Interface Module, NI's first Automotive Ethernet PXI-Express module. How to install, connect, configure, and use the PXIe-8521. DITA source using SVG format for images, pinouts, and block diagrams. | 
- | SW User Manual | [_NI-XNET Database Editor User Manual_](https://www.ni.com/docs/en-US/bundle/xnet-db-editor/page/manual-overview.html) | Overview of automotive database concepts, user instructions, and reference information for using the database editor. DITA source, output to a bundle, and published using Zoomin platform. | 
- | Diagram | [Network diagram](https://www.dropbox.com/scl/fi/dk25zrux4pjohfg0edgdd/netDiagSample.png?rlkey=5s0jrwll7j471ggx25dj5kodb&st=7fn2t099&dl=0) | Reference for system migration when TippingPoint was acquired by Hewlett-Packard (2010). Visio source. |
+ | Sample | Description |
+ | ---- | ---- |
+ | [Concept](https://www.dropbox.com/scl/fi/utzlzdu5tr5bt63s7tz30/concept-automotive-ethernet.pdf?rlkey=othntbz81olcxci0qnj7osudn&st=04tbzyuz&dl=0) | "Summary of the Ethernet Standard," a single topic from _NI-XNET Hardware and Software Help_ that describes "Automotive Ethernet" and the Ethernet standard as it applies to in-vehicle networking. HTML source, converted to PDF. |
+ | [Task](https://www.dropbox.com/scl/fi/7jdcqnbm2yisujh3nyo45/task-config-install-login.pdf?rlkey=tkvmh2xqd8sfujg9j8o3izqyl&st=s6b8r3cd&dl=0) | Three brief tasks, "Configure the vSMS Server," "Install the SMS Client," and "Log in to the SMS," from the _HP TippingPoint vSMS Getting Started Guide v.4.1_. Steps required to configure the HP TippingPoint Security Management System (SMS). FrameMaker source output to PDF. | 
+ | [Diagram](https://www.dropbox.com/scl/fi/dk25zrux4pjohfg0edgdd/netDiagSample.png?rlkey=5s0jrwll7j471ggx25dj5kodb&st=7fn2t099&dl=0) | Reference for system migration when TippingPoint was acquired by Hewlett-Packard (2010). Visio source, converted to PDF. |
+ | [_PXIe-8521 User Manual_](https://www.dropbox.com/scl/fi/z8sapt5h4yxzvqdb1vlie/pixe-8521_um.pdf?rlkey=dygjyz9tlmp68346mrbh7kec0&st=qse9jrnq&dl=0) | PXIe-8521 4-port, 100BASE-T1 PXI Automotive Ethernet Interface Module, NI's first Automotive Ethernet PXI-Express module. How to install, connect, configure, and use the PXIe-8521. DITA source using SVG format for images, pinouts, and block diagrams. | 
+ | [_NI-XNET Database Editor User Manual_](https://www.ni.com/docs/en-US/bundle/xnet-db-editor/page/manual-overview.html) | Overview of automotive database concepts, user instructions, and reference information for using the database editor. DITA source, output to a bundle, and published using Zoomin platform. | 
+
 
 :link: [Resume](resume.md)  
 :link: [Testimonials](testimonials.md)  
