@@ -1,9 +1,7 @@
 # portfolio
 I am a technical writer based in Austin, Texas, with experience creating documentation for leading technology companies, including IBM Global Services, Tivoli Software, Reddwerks, AMD, TippingPoint, and National Instruments. In addition to corporate technology, I've documented statewide financial systems at the Texas Comptroller of Public Accounts and a payment processing system for the Texas Office of the Attorney General. 
 
-My work spans a number of technical domains, from fiscal management systems and IT service management tools to supply chain management platforms, semiconductor technology, network security, and test and measurement systems.  
-
-Below are a few samples that highlight my focus on clarity, precision, and usability in technical communication.
+My work spans a number of technical domains, from fiscal management systems and IT service management tools to supply chain management platforms, semiconductor technology, network security, and test and measurement systems.
 
 ### writing samples
  | Type | Description | Sample |
